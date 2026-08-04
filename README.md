@@ -79,7 +79,7 @@ Encrypt=False;
 
 ```text
 ESpaceSolution/
-├── E SPACE/                  # C# Windows Forms project
+├── ESpaceSolution/                  # C# Windows Forms project
 ├── Database/
 │   └── ESPACESOLUTION.sql    # Database script
 ├── Screenshots/              # Application screenshots
