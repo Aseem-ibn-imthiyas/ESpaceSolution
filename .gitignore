@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio user files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# NuGet generated files
+packages/
+*.nupkg
+
+# Visual Studio local folder - not part of E-Space
+Visual Studio 2022/
